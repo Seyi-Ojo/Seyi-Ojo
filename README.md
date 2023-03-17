@@ -6,12 +6,12 @@
 **Here's a quick summary about me**:
 - 😊 I am Mayowa O. Ojo
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 💡 I am interested in Flutter for Mobile Development and Cloud Engineering.
 - 💡 Education: I am a Computer Science student at UoP, USA.
-- 🌱 I’m currently learning JavaScript and Flutter.
+- 🌱 I’m currently learning Cloud Engineering and Development, JavaScript and Flutter.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Mobile developer, or Cloud Engineer (Intern or Junior level).
+- 💼 Job interests: Cloud Engineering (Intern or Junior level), Software Engineering, Mobile development.
 - 📫 You can contact me by emailing seyidiamond11@gmail.com.
 
 ---
