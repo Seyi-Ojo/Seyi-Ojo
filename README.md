@@ -9,8 +9,8 @@
 - 💡 Fun fact: I just graduated from the Cloud Engineering track at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 💡 I am interested in Cloud Engineering and a little Flutter for Mobile App Development.
 - 💡 Education: I am a Computer Science student at UoP, USA.
-- 🌱 I’m currently learning Cloud Engineering and I have a solid foundation in the use of DevOps tools like Ansible, Terraform, Git, Jenkins, Prometheus, etc.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I’m currently learning Cloud Engineering and have a solid foundation in using DevOps tools like Ansible, Terraform, Git, Jenkins, Prometheus, etc.
+- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineering (Intern or Junior level), Software Engineering, Mobile development.
 - 📫 You can contact me by emailing mayowaoluwaseyiojo@gmail.com.
 
